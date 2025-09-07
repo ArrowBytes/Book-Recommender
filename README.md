@@ -7,20 +7,20 @@ The system allows users to query for books in natural language and receive relev
 
  🚀 Features
 
-- Text Data Cleaning**  
+- Text Data Cleaning
   Preprocess and clean raw book metadata for downstream tasks.
 
-- Semantic (Vector) Search**  
+- Semantic (Vector) Search 
   Use embeddings and a vector database to retrieve books most similar to a user query  
   (e.g., "a story about a detective seeking revenge").
 
-- Text Classification with LLMs**  
+- Text Classification with LLMs 
   Zero-shot classification to label books as *fiction* or *non-fiction*.
 
-- Sentiment & Emotion Analysis**  
+- Sentiment & Emotion Analysis 
   Extract emotional signals (suspense, joy, sadness, etc.) to filter and rank books by tone.
 
-- Interactive Web Application**  
+- Interactive Web Application 
   A Gradio-based dashboard that provides a simple interface for querying and receiving recommendations.
 
 ---
